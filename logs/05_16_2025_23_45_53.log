@@ -1,0 +1,65 @@
+[ 2025-05-16 23:45:53,277 ] 22 chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[ 2025-05-16 23:45:53,794 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:45:53,818 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-05-16 23:45:53,827 ] 97 werkzeug - INFO -  * Debugger PIN: 490-845-821
+[ 2025-05-16 23:46:14,574 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:46:14] "GET / HTTP/1.1" 200 -
+[ 2025-05-16 23:46:14,601 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:46:14] "GET /static/css/style.css HTTP/1.1" 200 -
+[ 2025-05-16 23:46:14,601 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:46:14] "GET /static/js/main.js HTTP/1.1" 200 -
+[ 2025-05-16 23:46:14,601 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:46:14] "GET /static/images/logo.png HTTP/1.1" 200 -
+[ 2025-05-16 23:46:14,660 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:46:14] "GET /get_chat_history HTTP/1.1" 200 -
+[ 2025-05-16 23:46:14,662 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:46:14] "GET /get_suggestions HTTP/1.1" 200 -
+[ 2025-05-16 23:46:14,723 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:46:14] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+[ 2025-05-16 23:46:14,726 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:46:14] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+[ 2025-05-16 23:46:20,712 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-05-16 23:46:22,929 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-05-16 23:46:25,491 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-05-16 23:46:26,905 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:46:26,923 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:46:26,940 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:46:29,432 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-05-16 23:46:31,897 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:46:32,203 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:46:32,220 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:46:33,888 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-05-16 23:46:38,792 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:46:38] "POST /send_message HTTP/1.1" 200 -
+[ 2025-05-16 23:47:18,302 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:47:18] "GET / HTTP/1.1" 200 -
+[ 2025-05-16 23:47:18,339 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:47:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2025-05-16 23:47:18,342 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:47:18] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+[ 2025-05-16 23:47:18,345 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:47:18] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+[ 2025-05-16 23:47:18,357 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:47:18] "GET /get_chat_history HTTP/1.1" 200 -
+[ 2025-05-16 23:47:18,359 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:47:18] "GET /get_suggestions HTTP/1.1" 200 -
+[ 2025-05-16 23:47:20,230 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:47:20] "POST /clear_chat_history HTTP/1.1" 200 -
+[ 2025-05-16 23:47:21,765 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:47:21] "GET / HTTP/1.1" 200 -
+[ 2025-05-16 23:47:21,772 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:47:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2025-05-16 23:47:21,773 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:47:21] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+[ 2025-05-16 23:47:21,773 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:47:21] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+[ 2025-05-16 23:47:21,777 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:47:21] "GET /get_chat_history HTTP/1.1" 200 -
+[ 2025-05-16 23:47:21,778 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:47:21] "GET /get_suggestions HTTP/1.1" 200 -
+[ 2025-05-16 23:47:24,451 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-05-16 23:47:26,618 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-05-16 23:47:29,183 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-05-16 23:47:31,868 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:47:31,886 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:47:31,903 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:47:33,568 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-05-16 23:47:35,767 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:47:35,791 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:47:35,810 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:47:37,456 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-05-16 23:47:39,761 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:47:39,787 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:47:39,807 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:47:41,449 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-05-16 23:47:43,858 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:47:43,876 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:47:43,893 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:47:45,570 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-05-16 23:47:51,600 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:47:51] "POST /send_message HTTP/1.1" 200 -
+[ 2025-05-16 23:48:15,230 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-05-16 23:48:17,719 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-05-16 23:48:19,876 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-05-16 23:48:22,358 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:48:22,376 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:48:22,393 ] 83 root - INFO - VectorDB collection count is 236431
+[ 2025-05-16 23:48:24,198 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-05-16 23:48:26,728 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/May/2025 23:48:26] "POST /send_message HTTP/1.1" 200 -
