@@ -160,7 +160,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - Built with [LangChain](https://github.com/langchain-ai/langchain) and [LangGraph](https://github.com/langchain-ai/langgraph)
-- Uses [crawl4ai] (https://docs.crawl4ai.com) for crawling
+- Uses [crawl4ai](https://docs.crawl4ai.com) for crawling
 - Uses [ChromaDB](https://github.com/chroma-core/chroma) for vector storage
 - Powered by various LLM providers (Gemini, OpenAI, Anthropic, Cohere)
 - Documentation content from [TensorFlow](https://www.tensorflow.org/)
