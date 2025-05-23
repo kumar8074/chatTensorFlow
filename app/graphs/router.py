@@ -1,8 +1,8 @@
 # ===================================================================================
 # Project: ChatTensorFlow
 # File: app/graphs/router.py
-# Description: This file contains the implementation of Researcher main TensorFlowAssitant Graph.
-#              It also includes the Researcher sub-Graph.
+# Description: This file contains the implementation of main TensorFlowAssitant Graph.
+#              It also uses the Researcher sub-Graph.
 # Author: LALAN KUMAR
 # Created: [15-05-2025]
 # Updated: [15-05-2025]
