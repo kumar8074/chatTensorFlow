@@ -1,8 +1,0 @@
-[ 2025-05-16 23:45:50,794 ] 22 chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
-[ 2025-05-16 23:45:51,310 ] 83 root - INFO - VectorDB collection count is 236431
-[ 2025-05-16 23:45:51,555 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
- * Running on all addresses (0.0.0.0)
- * Running on http://127.0.0.1:8000
- * Running on http://192.168.0.103:8000
-[ 2025-05-16 23:45:51,556 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
-[ 2025-05-16 23:45:51,557 ] 97 werkzeug - INFO -  * Restarting with stat

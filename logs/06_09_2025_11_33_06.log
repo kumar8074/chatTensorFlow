@@ -1,0 +1,81 @@
+[ 2025-06-09 11:33:06,394 ] 22 chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[ 2025-06-09 11:33:06,490 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:33:06,514 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-06-09 11:33:06,522 ] 97 werkzeug - INFO -  * Debugger PIN: 458-034-137
+[ 2025-06-09 11:33:17,449 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jun/2025 11:33:17] "GET / HTTP/1.1" 200 -
+[ 2025-06-09 11:33:17,502 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jun/2025 11:33:17] "GET /static/css/style.css HTTP/1.1" 200 -
+[ 2025-06-09 11:33:17,502 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jun/2025 11:33:17] "GET /static/images/logo.png HTTP/1.1" 200 -
+[ 2025-06-09 11:33:17,531 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jun/2025 11:33:17] "GET /static/js/main.js HTTP/1.1" 200 -
+[ 2025-06-09 11:33:19,215 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jun/2025 11:33:19] "GET /get_chat_history HTTP/1.1" 200 -
+[ 2025-06-09 11:33:19,218 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jun/2025 11:33:19] "GET /get_suggestions HTTP/1.1" 200 -
+[ 2025-06-09 11:33:19,262 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jun/2025 11:33:19] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+[ 2025-06-09 11:33:19,263 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jun/2025 11:33:19] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+[ 2025-06-09 11:33:19,264 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jun/2025 11:33:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-06-09 11:33:19,314 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jun/2025 11:33:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-06-09 11:33:31,597 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:33:32,672 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:33:49,038 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:33:51,821 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:33:51,846 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:33:51,869 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:33:53,584 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:33:58,461 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jun/2025 11:33:58] "POST /send_message HTTP/1.1" 200 -
+[ 2025-06-09 11:34:36,191 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:34:37,136 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:34:38,047 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:34:39,696 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:34:39,720 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:34:39,744 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:34:40,285 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:34:44,915 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jun/2025 11:34:44] "POST /send_message HTTP/1.1" 200 -
+[ 2025-06-09 11:35:43,124 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:35:44,086 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:35:46,341 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:35:47,991 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:35:48,016 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:35:48,040 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:35:53,563 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:36:03,477 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jun/2025 11:36:03] "POST /send_message HTTP/1.1" 200 -
+[ 2025-06-09 11:37:08,838 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:37:10,015 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:37:16,248 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:37:18,230 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:37:18,255 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:37:18,278 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:37:19,948 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:37:21,190 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:37:21,217 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:37:21,241 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:37:22,799 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:37:27,889 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jun/2025 11:37:27] "POST /send_message HTTP/1.1" 200 -
+[ 2025-06-09 11:38:22,200 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:38:23,226 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:38:24,405 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:38:25,901 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:38:25,925 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:38:25,949 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:38:26,546 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:38:32,612 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:38:32,642 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:38:32,667 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:38:33,214 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:38:44,288 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jun/2025 11:38:44] "POST /send_message HTTP/1.1" 200 -
+[ 2025-06-09 11:40:11,170 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:40:13,097 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:40:14,561 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:40:31,335 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:40:31,359 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:40:31,382 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:40:32,576 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:40:33,725 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:40:33,751 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:40:33,775 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:40:34,323 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:40:35,363 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:40:35,392 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:40:35,417 ] 83 root - INFO - VectorDB collection count is 361429
+[ 2025-06-09 11:40:37,072 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:40:48,412 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jun/2025 11:40:48] "POST /send_message HTTP/1.1" 200 -
+[ 2025-06-09 11:41:49,517 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:42:05,806 ] 1049 langchain_google_genai.chat_models - WARNING - Unexpected argument 'streaming' provided to ChatGoogleGenerativeAI. Did you mean: 'disable_streaming'?
+[ 2025-06-09 11:42:07,022 ] 97 werkzeug - INFO - 127.0.0.1 - - [09/Jun/2025 11:42:07] "POST /send_message HTTP/1.1" 200 -

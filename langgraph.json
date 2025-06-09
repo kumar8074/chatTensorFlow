@@ -1,0 +1,10 @@
+{
+    "dependencies": [
+      "."
+    ],
+    "graphs": {
+      "researcher": "./app/graphs/researcher.py:create_researcher_graph",
+      "tf_assistant": "./app/graphs/tf_assistant.py:create_assistant_graph"
+    },
+    "env": "./.env"
+}

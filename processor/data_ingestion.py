@@ -10,7 +10,7 @@
 # ===================================================================================
 # CAUTION: DO NOT RUN this file until you want to make changes to the vectorStoreDB.
 # RECOMMENDATION: It is recommended to run this file multiple times and persist the vectorDB using all the embedding providers.
-#                 Currently it persists the vectorDB locally which is efiicient for ChatSklearn application types.
+#                 Currently it persists the vectorDB locally which is efiicient for ChatTensorFlow application types.
 #                 However you can modify the script and persist the vectorDB externally to third party databases.
 
 import os

@@ -4,7 +4,7 @@
 # Description: This file contains the state schemas used by the graphs.
 # Author: LALAN KUMAR
 # Created: [15-05-2025]
-# Updated: [15-05-2025]
+# Updated: [09-06-2025]
 # LAST MODIFIED BY: LALAN KUMAR [https://github.com/kumar8074]
 # Version: 1.0.0
 # ===================================================================================
@@ -12,7 +12,7 @@
 import os
 import sys
 from dataclasses import dataclass, field
-from typing_extensions import Annotated, Literal, TypedDict
+from typing_extensions import Annotated, Literal, TypedDict, Optional
 from langchain_core.documents import Document
 from langgraph.graph import add_messages
 from langchain_core.messages import AnyMessage
@@ -53,4 +53,5 @@ class AgentState(InputState):
     router: Router = field(default_factory=lambda: Router(type="general", logic=""))
     steps: list[str] = field(default_factory=list)
     documents: Annotated[list[Document], reduce_docs] = field(default_factory=list)
-    summary: str=""
+    summary: Optional[str]= field(default="")  # Summary of the conversation
+    last_summarized_index: Optional[int] = field(default=-1) # default to -1 meaning no messages summarized yet

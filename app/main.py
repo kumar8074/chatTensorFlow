@@ -4,7 +4,7 @@
 # Description: This file Orchasterates the main TensorFlow Application.
 # Author: LALAN KUMAR
 # Created: [16-05-2025]
-# Updated: [16-05-2025]
+# Updated: [09-06-2025]
 # LAST MODIFIED BY: LALAN KUMAR [https://github.com/kumar8074]
 # Version: 1.0.0
 # ===================================================================================
@@ -26,7 +26,7 @@ if project_root not in sys.path:
 
 # Import the router graph and settings
 from app.graphs.states import AgentState
-from app.graphs.router import create_router_graph
+from app.graphs.tf_assistant import create_assistant_graph
 from config import settings
 
 from langchain.callbacks.base import AsyncCallbackHandler
@@ -47,7 +47,7 @@ app = Flask(__name__)
 app.secret_key = os.environ.get('SECRET_KEY', str(uuid4()))
 
 # Create the router graph
-router_graph = create_router_graph()
+tf_graph = create_assistant_graph()
 
 langsmith_client = Client(api_key=os.environ.get("LANGSMITH_API_KEY"))
 tracer = LangChainTracer(client=langsmith_client, project_name="TensorFlowAssistantProject")
@@ -141,7 +141,7 @@ def send_message():
 
     # Try to get current state from graph
     try:
-        latest_state = router_graph.get_state(config)
+        latest_state = tf_graph.get_state(config)
         current_messages = latest_state.values.get("messages", [])
     except Exception:
         current_messages = []
@@ -163,7 +163,7 @@ def send_message():
     loop = asyncio.new_event_loop()
     asyncio.set_event_loop(loop)
     try:
-        result = loop.run_until_complete(router_graph.ainvoke(state, config))
+        result = loop.run_until_complete(tf_graph.ainvoke(state, config))
         full_streamed_text="".join(streamer.tokens)
         #print("STREAMED:" ,full_streamed_text)
         assistant_messages = result.get("messages", [])
