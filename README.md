@@ -26,15 +26,19 @@ ChatTensorFlow is built with a modular architecture:
 
 ## Graphs
 
-<p align="centre">
-   <img width="298" alt="tf-assistant" src="https://github.com/user-attachments/assets/46cb9229-2f08-4e21-bf05-5fa2dcba4e6a" /><br/>
-   TF Assistant main Graph
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/46cb9229-2f08-4e21-bf05-5fa2dcba4e6a" width="300"/><br/>
+      <b>TF Assistant main Graph</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cb7acc32-fbf2-4fdb-919b-4c044a93dd0b" width="300"/><br/>
+      <b>Researcher sub Graph</b>
+    </td>
+  </tr>
+</table>
 
-<p align="centre">
-   <img width="330" alt="researcher" src="https://github.com/user-attachments/assets/cb7acc32-fbf2-4fdb-919b-4c044a93dd0b" /><br/>
-   Researcher sub Graph
-</p>
 
 ## Getting Started
 
